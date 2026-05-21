@@ -50,11 +50,6 @@
                     @csrf
 
                     <div>
-                        <label>{{ __('Enter purchase code') }}</label>
-                        <input type="text" name="purchase_code" class="form-control" placeholder="{{ __('Enter addon purchase code') }}" required>
-                    </div>
-
-                    <div class="mt-3">
                         <label>{{ __('Upload addons zip file') }}</label>
                         <input type="file" name="file" class="form-control" accept="file/*" required>
                     </div>
