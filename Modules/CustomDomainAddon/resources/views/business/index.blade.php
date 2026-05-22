@@ -1,4 +1,4 @@
-@extends('business::layouts.master')
+@extends('layouts.business.master')
 
 @section('title')
     {{ __('Domains') }}
