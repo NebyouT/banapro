@@ -1,3 +1,6 @@
 {
-
+    "Business": true,
+    "MultiBranchAddon": true,
+    "WarehouseAddon": true,
+    "CustomDomainAddon": true
 }
